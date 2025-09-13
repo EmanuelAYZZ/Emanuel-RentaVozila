@@ -1,5 +1,16 @@
 # Emanuel-RentaVozila
 
+ ( OX INVENTORY ITEM - NEMAM SLIKU ): ) :
+
+ ['rental_contract'] = {
+    label = 'Ugovor o najmu',
+    weight = 0,
+    stack = false,
+    close = true,
+    description = 'Dokument za rentano vozilo'
+}
+
+
 Rentanje Vozila – FiveM Skripta (ESX/QB + ox_inventory)
 
 Ova skripta omogućava jednostavan i moderan sustav za rentanje vozila na FiveM serverima koristeći ESX ili QB framework, uz integraciju s ox_inventory. Igrači mogu iz UI panela izabrati vozilo koje žele rentati, platiti ga i dobiti “ugovor o najmu” u inventar.
