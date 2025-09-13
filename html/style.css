@@ -1,0 +1,41 @@
+body {
+  background: rgba(0,0,0,0.5);
+  font-family: Arial, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+#panel {
+  display: none;
+  background: #1c1c1c;
+  color: #fff;
+  padding: 20px;
+  border-radius: 15px;
+  width: 350px;
+  text-align: center;
+  box-shadow: 0 0 20px rgba(0,0,0,0.7);
+}
+#vozila button {
+  display: block;
+  width: 100%;
+  padding: 12px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 8px;
+  background: #007bff;
+  color: #fff;
+  font-size: 16px;
+  cursor: pointer;
+  transition: 0.2s;
+}
+#vozila button:hover {
+  background: #0056b3;
+}
+.close {
+  margin-top: 10px;
+  background: #dc3545;
+}
+.close:hover {
+  background: #a71d2a;
+}
