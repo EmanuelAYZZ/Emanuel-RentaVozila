@@ -1,15 +1,5 @@
 # Emanuel-RentaVozila
 
- ( OX INVENTORY ITEM - NEMAM SLIKU ): ) :
-
- ['rental_contract'] = {
-    label = 'Ugovor o najmu',
-    weight = 0,
-    stack = false,
-    close = true,
-    description = 'Dokument za rentano vozilo'
-}
-
 
 Rentanje Vozila – FiveM Skripta (ESX/QB + ox_inventory)
 
