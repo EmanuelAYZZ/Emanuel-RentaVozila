@@ -32,3 +32,16 @@ Automatsko despawn vozila kad ugovor istekne.
 Evidencija rentanih vozila u bazi.
 
 Podrška za ESX i QB framework te ox_inventory.
+
+
+( OX INVENTORY ITEM - NEMAM SLIKU ): ) :
+
+ ['rental_contract'] = {
+label = 'Ugovor o najmu',
+weight = 0,
+stack = false,
+close = true,
+description = 'Dokument za rentano vozilo'
+}
+
+
